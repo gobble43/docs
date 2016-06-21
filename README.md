@@ -1,3 +1,6 @@
+[![Stories in Ready](https://badge.waffle.io/gobble43/docs.svg?label=ready&title=Ready)](http://waffle.io/gobble43/docs)
+
+Enter "gobble43/docs" to confirm delete
 # docs
 > Gobble documentation and infrastructure.
 
